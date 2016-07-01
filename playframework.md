@@ -25,9 +25,11 @@ W szczególności uczestnicy:
 Cechy wyróżniające to szkolenie, najistotniejsze lub najciekawsze aspekty.
 
 Wymagania
+
 Wymagana znajomość języka Scala, baz SQL i modelowania danych.
 
 Parametery szkolenia
+
 3*8 godzin (3*7 godzin netto) wykładów i warsztatów (33,33/66,66%).
 
 W trakcie warsztatów uczestnicy stworzą kompletną webaplikację z wykorzystaniem Playframeworka i Anorma.
